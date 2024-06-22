@@ -42,9 +42,10 @@
 - Implemented interactive features such as slicers, filters, and drill – through functionality to enable users to explore sales data.  
 - Created visually appealing dashboards to visualize Nike sales trends over time and region.  
 - Did a Comprehensive analysis of Nike data using Power Bi to give more insights to the users.
+![IMG](assets/NIke_BI.png)
 
 
-[**Power BI Spotify Analysis**](https://drive.google.com/file/d/1FiVRk6M69DaoHs8JLOyBxXeejcM1N6VU/view?usp=drive_link)
+[**Power BI: Spotify Analysis**](https://drive.google.com/file/d/1FiVRk6M69DaoHs8JLOyBxXeejcM1N6VU/view?usp=drive_link)
 
 [**YouTube Channels Performance Analysis | SPSS**](https://drive.google.com/drive/folders/1-80CHnszlGmA7WXSpboFkAH8iAkZj8RR?usp=drive_link)                              
 - Leveraged publicly available dataset to analyze factors influencing YouTube channel revenue and performance.  
