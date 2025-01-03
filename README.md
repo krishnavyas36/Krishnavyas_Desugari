@@ -29,6 +29,10 @@
 - Connected with academic staff and guidance counselors to establish relationships and work together to enhance student success.
 
 ### Projects
+[**Facial_expression_recognition_using different models](https://github.com/krishnavyas36/Facial_expression_rcognition)
+
+[**News_article_poplarity_Predictor**](https://github.com/krishnavyas36/Deep_learning_structured)
+
 [**Budget and Expenses Tracker App | Python, Pandas**](https://github.com/krishnavyas36/Budget-Tracker-and-Analysis)                 
 - Develop a user-friendly budget tracking app with CRUD operations using python and pandas. 
 - Integrate Python and Excel to store data and make changes efficiently. 
